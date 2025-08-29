@@ -17,33 +17,13 @@ This directory shows the amount Virtual machines I have used throughout my learn
 
 <p align="center">
 Virtual Environment</b>: <br/>
-<img src="C:\Users\ebulu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-29 085603.png"/>
+<img src="https://imgur.com/IyCyIxp.png" alt="Virtual home lab"/>
 <br />
-<b> Virtual Machines and their functions to me</b>
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+<h>Virtual Machines and their functions to me</b>
+</h>
+
+
 
 <!--
  ```diff
