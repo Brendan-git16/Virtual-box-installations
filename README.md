@@ -16,9 +16,10 @@ This directory shows the amount Virtual machines I have used throughout my learn
 <h2>Virtual box window and machines</h2>
 
 <p align="center">
-Launch WIN-SER-EBrendan</b>: <br/>
+Virtual Environment</b>: <br/>
 <img src="C:\Users\ebulu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-29 085603.png"/>
 <br />
+<b> Virtual Machines and their functions to me</b>
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
