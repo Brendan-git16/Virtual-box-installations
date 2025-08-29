@@ -20,8 +20,19 @@ Virtual Environment</b>: <br/>
 <img src="https://imgur.com/IyCyIxp.png" alt="Virtual home lab"/>
 <br />
 
-<h>Virtual Machines and their functions to me</b>
-</h>
+# Virtual Machines and Their Functions To Me
+- <b> Debian Linux</b>
+  - <b> Conducted System monitoring project on this machine using Nagios.</b>
+- <b> IPFIRE</b>
+  - <b> Used it as a firewall for Vulnerability Test</b>
+- <b> Window 11 </b>
+  - <b></b>
+- <b> Window Server 22</b>
+  - <b></b>
+- <b> Kali Linux</b>
+  - <b></b>
+- <b> Metapliotable </b>
+  - <b></b>
 
 
 
