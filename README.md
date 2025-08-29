@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This directory shows the amount Virtual machines I have used throughout my learning and self-growth phase.
+This directory shows the number of Virtual machines I have used throughout my learning and self-growth phase.
 <br />
 
 
@@ -26,9 +26,10 @@ Virtual Environment</b>: <br/>
 - <b> IPFIRE</b>
   - <b> Used it as a firewall for Vulnerability Test</b>
 - <b> Window 11 </b>
+  - <b> Used it as a tool to improve my PowerShell script writing skills </b>
   - <b></b>
 - <b> Window Server 22</b>
-  - <b></b>
+  - <b> Used it as a tool to improve my Active Directory skills </b>
 - <b> Kali Linux</b>
   - <b></b>
 - <b> Metapliotable </b>
