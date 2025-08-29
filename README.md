@@ -2,24 +2,22 @@
 
 
 <h2>Description</h2>
-In this lab i'm going to go through the steps of onboarding new users and creating new user accounts on my local Windows Server 2022 AD instance.  I will choose a non-management Pixell River (practice organization) user and create AD user account. I will also provide a unique temporary password for each account. I will also ensure that they are using good password practices to configure the accounts and provide unique passwords for each account.
+This directory shows the amount Virtual machines I have used throughout my learning and self-growth phase.
 <br />
 
 
 <h2>Utilities Used</h2>
-
-- <b>Oracle Virtualbox Manager</b> 
-- <b>Windows Server 2022: WIN-SER-EBrendan</b> 
+- <b>Oracle Virtualbox Manager</b>  
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (24H2)
 
-<h2>Program walk-through:</h2>
+<h2>Virtual box window and machines</h2>
 
 <p align="center">
 Launch WIN-SER-EBrendan</b>: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="C:\Users\ebulu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-29 085603.png"/>
 <br />
 <br />
 Select the disk:  <br/>
