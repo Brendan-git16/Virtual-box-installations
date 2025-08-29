@@ -22,7 +22,7 @@ Virtual Environment</b>: <br/>
 
 # Virtual Machines and Their Functions To Me
 - <b> Debian Linux</b>
-  - <b> Conducted System monitoring project on this machine using Nagios.</b>
+  - <b> Conducted System monitoring/health check projects on this machine using Nagios.</b>
 - <b> IPFIRE</b>
   - <b> Used it as a firewall for Vulnerability Test</b>
 - <b> Window 11 </b>
